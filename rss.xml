@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[egwolfe]]></title>
         <description><![CDATA[egwolfe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/egwolfe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 17:47:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 14:10:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/egwolfe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Freelance ]]></title>
             <description><![CDATA[<article><h1>Freelance </h1><p>For hire as Production Designer & Consultant</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bf190-bc3f-46f5-89ec-b8ea56eee6d0.jpg"></article>]]></description>
-            <link>undefinedfreelance/index.html</link>
+            <link>https://thegrid.ai/egwolfe/freelance/index.html</link>
             <guid isPermaLink="false">64661809-4908-4281-9069-f999fbb7d7d1</guid>
-            <pubDate>Sun, 25 Oct 2015 17:46:27 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 14:09:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
