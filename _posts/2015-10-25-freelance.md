@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'For hire as Production Designer & Consultant'
-datePublished: '2015-10-25T17:46:27.030Z'
-dateModified: '2015-10-25T17:45:12.812Z'
+datePublished: '2015-11-07T14:09:25.189Z'
+dateModified: '2015-10-25T17:46:27.030Z'
 title: 'Freelance '
 authors: []
 publisher:
