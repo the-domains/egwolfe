@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-30T05:32:38.894Z'
-dateModified: '2015-10-30T05:32:00.111Z'
+datePublished: '2015-11-07T14:09:24.975Z'
+dateModified: '2015-10-30T05:32:38.894Z'
 title: Dealership Production Design
 authors: []
 publisher:
