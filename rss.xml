@@ -4,8 +4,15 @@
         <description><![CDATA[egwolfe]]></description>
         <link>https://thegrid.ai/egwolfe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 05:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 05:49:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/egwolfe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Personal Bio</p></article>]]></description>
+            <link>https://thegrid.ai/egwolfe/about/index.html</link>
+            <guid isPermaLink="false">f655483a-ad31-4b34-a8a9-5de0676cd25d</guid>
+            <pubDate>Mon, 16 Nov 2015 05:49:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freelance ]]></title>
             <description><![CDATA[<article><h1>Freelance </h1><p>For hire as Production Designer & Consultant</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b67bf190-bc3f-46f5-89ec-b8ea56eee6d0.jpg"></article>]]></description>
