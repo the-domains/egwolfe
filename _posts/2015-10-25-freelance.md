@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'For hire as Production Designer & Consultant'
-datePublished: '2015-11-07T14:09:25.189Z'
-dateModified: '2015-10-25T17:46:27.030Z'
+datePublished: '2015-11-16T05:45:28.587Z'
+dateModified: '2015-11-16T05:44:48.599Z'
 title: 'Freelance '
+sourcePath: _posts/2015-10-25-freelance.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-25-freelance.md
-published: true
 url: freelance/index.html
 _type: Article
 
