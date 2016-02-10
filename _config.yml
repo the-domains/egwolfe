@@ -1,29 +1,41 @@
-name: egwolfe
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.72634
 title: egwolfe
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9974705
+  brandStrength: 0.5
+  lightness: 0.0625
   brandColors:
     - '#6d9fc7'
     - '#27221e'
     - '#455a73'
     - '#dadee7'
     - '#767f45'
-  brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.5059022
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: egwolfe
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6593592
+layout_spectrum: 0.9957842
